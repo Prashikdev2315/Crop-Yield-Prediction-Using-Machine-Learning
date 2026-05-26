@@ -40,9 +40,9 @@ env/
 .jupyter/
 
 # Data
-*.csv
-*.xlsx
-*.xls
+# *.csv  - Include project data files
+# *.xlsx - Include project database files
+# *.xls  - Include project database files
 data/
 *.db
 
